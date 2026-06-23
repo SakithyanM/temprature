@@ -1,0 +1,9 @@
+---
+title: "Portland Daily High Temperatures"
+author: ""
+format: html
+---
+
+This page shows the Portland daily maximum temperature plot generated from the R script.
+
+![](portland_daily_highs.png){width="100%"}
